@@ -1,0 +1,28 @@
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.deps.json
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.dll
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.pdb
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.AssemblyInfoInputs.cache
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.AssemblyInfo.cs
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.csproj.CoreCompileInputs.cache
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.dll
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\refint\Vezeeta.Core.dll
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.pdb
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\ref\Vezeeta.Core.dll
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.csproj.AssemblyReference.cache
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.runtimeconfig.json
+F:\ALGORIZA\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.genruntimeconfig.cache
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.deps.json
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.runtimeconfig.json
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.dll
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\bin\Debug\net6.0\Vezeeta.Core.pdb
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.csproj.AssemblyReference.cache
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.AssemblyInfoInputs.cache
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.AssemblyInfo.cs
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.csproj.CoreCompileInputs.cache
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.dll
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\refint\Vezeeta.Core.dll
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.pdb
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\Vezeeta.Core.genruntimeconfig.cache
+F:\ALGORIZA\New folder (2)\algoriza-internship-2023BE279\Vezeeta.Core\obj\Debug\net6.0\ref\Vezeeta.Core.dll
